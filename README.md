@@ -1,5 +1,5 @@
 # TokenDisplayEsp32
-Token Display 
+Token Display (Work in Progress)
 
 Full wiring diagrams and instructions ready for your GitHub README.md.
 
