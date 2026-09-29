@@ -1,10 +1,6 @@
 # TokenDisplayEsp32
 Token Display (Work in Progress)
 
-Full wiring diagrams and instructions ready for your GitHub README.md.
-
-Copy-paste this into README.md. Includes Fritzing-style text diagrams + tables.
-
 ESP32 Token Display with Keypad, 7-Segment & Voice
 Queue token system: Enter number on keypad → wireless to display + voice announcement.
 
